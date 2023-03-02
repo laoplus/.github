@@ -20,4 +20,4 @@
 
 ## Discord
 
-![](https://invidget.switchblade.xyz/EGWqTuhjrE)
+[![](https://invidget.switchblade.xyz/EGWqTuhjrE)](https://discord.gg/EGWqTuhjrE)
